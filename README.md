@@ -1,4 +1,4 @@
-# Tutorial Instalasi Navbar Mobile untuk OpenWRT/LuCI
+# Tutorial Instalasi Navbar di Tema Argon untuk OpenWRT/LuCI
 
 ## 📱 Deskripsi
 Script ini akan menambahkan navbar mobile modern di bagian bawah halaman web OpenWRT/LuCI dengan fitur:
