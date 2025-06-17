@@ -55,7 +55,7 @@ Untuk menghapus navbar:
 rm -f /usr/lib/lua/luci/view/themes/argon/navbar.htm
 rm -f /www/luci-static/argon/css/nav.css
 sed -i '/nav.css/d' /usr/lib/lua/luci/view/themes/argon/header.htm
-sed -i '/navbar.htm/d' /usr/lib/lua/luci/view/themes/argon/header.htm
+sed -i '/navbar/d' /usr/lib/lua/luci/view/themes/argon/header.htm
 sed -i '/prevScrollpos/,/<\/script>/d' /usr/lib/lua/luci/view/themes/argon/footer.htm
 ```
 
