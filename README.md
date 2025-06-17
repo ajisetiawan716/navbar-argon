@@ -22,7 +22,7 @@ ssh root@alamat.ip.router
 
 ### 2. Unduh Script Instalasi
 ```bash
-wget https://raw.githubusercontent.com/username-repo/main/install-navbar.sh -O /tmp/install-navbar.sh && chmod +x /tmp/install-navbar.sh && sh /tmp/install-navbar.sh
+wget https://raw.githubusercontent.com/ajisetiawan716/navbar-argon/main/install-navbar.sh -O /tmp/install-navbar.sh && chmod +x /tmp/install-navbar.sh && sh /tmp/install-navbar.sh
 ```
 
 ### 5. Verifikasi Instalasi
