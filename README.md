@@ -86,4 +86,4 @@ Jika mengalami masalah:
 ---
 
 Dibuat dengan ❤️ untuk komunitas OpenWRT Indonesia  
-[Laporkan Issue](https://github.com/username-repo/issues) | [Lihat Kode Sumber](https://github.com/username-repo)
+[Laporkan Issue](https://github.com/ajisetiawan716/navbar-argon/issues) | [Lihat Kode Sumber](https://github.com/username-repo)
