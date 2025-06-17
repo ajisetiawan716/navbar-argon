@@ -22,17 +22,7 @@ ssh root@alamat.ip.router
 
 ### 2. Unduh Script Instalasi
 ```bash
-wget https://raw.githubusercontent.com/username-repo/main/install-navbar.sh -O /tmp/install-navbar.sh
-```
-
-### 3. Berikan Hak Akses Eksekusi
-```bash
-chmod +x /tmp/install-navbar.sh
-```
-
-### 4. Jalankan Script Instalasi
-```bash
-/tmp/install-navbar.sh
+wget https://raw.githubusercontent.com/username-repo/main/install-navbar.sh -O /tmp/install-navbar.sh && chmod +x /tmp/install-navbar.sh && sh /tmp/install-navbar.sh
 ```
 
 ### 5. Verifikasi Instalasi
